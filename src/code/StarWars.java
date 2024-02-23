@@ -38,7 +38,8 @@ public class StarWars
         if(splitInput.length != NUMBER_OF_WORDS)
         {
             System.out.println("Error: incorrect number of words provided");
-        } else
+        }
+        else
         {
             firstName = splitInput[0].trim();
             lastName = splitInput[1].trim();
@@ -137,11 +138,13 @@ public class StarWars
             {
                 titleCase.append(c);
                 capitalizeNext = true;
-            } else if(capitalizeNext)
+            }
+            else if(capitalizeNext)
             {
                 titleCase.append(Character.toTitleCase(c));
                 capitalizeNext = false;
-            } else
+            }
+            else
             {
                 titleCase.append(Character.toLowerCase(c));
             }
