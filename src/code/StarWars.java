@@ -3,7 +3,7 @@ import javax.xml.stream.events.StartDocument;
 /**
  * StarWars of BCIT
  *
- * @author Andres Arevalo
+ * @author Andres Arevalo, Lida and Yeongsuk Oh.
  * @version 1.0
  */
 public class StarWars

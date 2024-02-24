@@ -53,7 +53,7 @@
     <configuration name="StarWars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StarWars" />
       <module name="lab6.1" />
-      <option name="PROGRAM_PARAMETERS" value="Brady|Mills|Shepherd" />
+      <option name="PROGRAM_PARAMETERS" value="Brady|Mills|Shepherd|Chilliwack" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
